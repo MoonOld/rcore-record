@@ -15,3 +15,6 @@ rustlings大概完成了一半左右，明天大概会出去和朋友玩，所�
 今天更新完了rustlings的一些疑问，也翻阅了不少rust源码，在设计上是有更深一步的认识的。[博客链接](https://moonold.github.io/posts/lab/rcore/rustlings/)  
 
 然后开始阅读了[RISC-V手册](http://riscvbook.com/chinese/RISC-V-Reader-Chinese-v2p1.pdf)，里面讲的东西实在涉略过广，我个人的指令集理解已经退化到了课内X86复杂指令设计都不太记得了，看得有些头昏脑胀。晚上勉强看完第二章RV32I，可能要考虑一下换资料或者尽可能读一些RISC-V本身的内容避免过度联想。
+
+## 4月17日
+不知不觉过了十天了，我忙着驾校、也写了点别的东西。看完了RISC-V手册正文，也搭好了环境，是时候出发了。
