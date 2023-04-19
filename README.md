@@ -18,3 +18,10 @@ rustlings大概完成了一半左右，明天大概会出去和朋友玩，所�
 
 ## 4月17日
 不知不觉过了十天了，我忙着驾校、也写了点别的东西。看完了RISC-V手册正文，也搭好了环境，是时候出发了。
+
+## 4月18日
+今天遇到了一些问题，是Qemu版本过高和RustSBI不适配的问题，通过源码编译Qemu7.0的办法解决了，明天更新一下踩坑记录。
+
+## 4月19日
+今日又遇到了MacOS的自带grep带来的问题，已经提交过程于[Discussion](https://github.com/LearningOS/rust-based-os-comp2023/discussions/179).
+今天把Ch1的代码基本看完了，并且做了注释，Ch2也快看完Tutorial了，要尽快整理一下产出。
