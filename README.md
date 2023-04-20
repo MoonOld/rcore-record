@@ -25,3 +25,7 @@ rustlings大概完成了一半左右，明天大概会出去和朋友玩，所�
 ## 4月19日
 今日又遇到了MacOS的自带grep带来的问题，已经提交过程于[Discussion](https://github.com/LearningOS/rust-based-os-comp2023/discussions/179).
 今天把Ch1的代码基本看完了，并且做了注释，Ch2也快看完Tutorial了，要尽快整理一下产出。
+
+## 4月20日
+今天看完了Ch2代码，也看完了Slides，Tutorial中提出的sscratch内容改为系统栈顶的时机，应当是__restore过程中sret上一行，csrrw指令将原sp中系统栈写入sscratch。
+今天把之前去拍的照片的图修完了，应该有更多时间去做rcore了。
